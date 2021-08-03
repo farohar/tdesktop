@@ -1,6 +1,6 @@
 # [Telegram Desktop][telegram_desktop] – Official Messenger
 
-This is the complete source code and the build instructions for the unofficial alpha version of the UN(!)official desktop client for the [Telegram][telegram] messenger, renamed - for distinction - to Herrmanns Unofficial Telegram Antispy Built (HUTAB), based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol.
+This is the complete source code and the build instructions for the unofficial alpha version of the UN(!)official desktop client for the [Telegram][telegram] messenger, renamed - for distinction - to Herrmanns Unofficial Telegram Antispy Built (HUTAB), based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol. For now, this is basically a fork with very minor changes, like those demanded in Telegrams AGSs, i.e. the title of the application and the icon, so that it is distinguishable from the original and official Telegram desktop application.
 
 [![Version](https://badge.fury.io/gh/telegramdesktop%2Ftdesktop.svg)](https://github.com/telegramdesktop/tdesktop/releases)
 [![Build Status](https://github.com/telegramdesktop/tdesktop/workflows/Windows./badge.svg)](https://github.com/telegramdesktop/tdesktop/actions)
